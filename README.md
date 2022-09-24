@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xGREGKERSEYx
 - 👀 I’m interested in Summer Internships in Software Engineering / Design, Web Development, Game Development
 - 🌱 I’m currently learning java programming 
-- 💞️ I’m looking to collaborate on projacts to further my horizona and expand upon my learned skills
+- 💞️ I’m looking to collaborate on projects to further my horizona and expand upon my learned skills
 - 📫 How to reach me: Disocrd Moros_Olethros#7167, or email gregkkersey@gmail.com
 
 <!---
