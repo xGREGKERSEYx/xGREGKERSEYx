@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xGREGKERSEYx
-- 👀 I’m interested in Summer Internships in Software Engineering / Design, Data Analysis, Web Development, Game Development
-- 🌱 I’m currently coding using Java but have used C#, HTML/CSS, JavaScript and Python. I am using online resources to learn Git, Spring framework, SQL, and MySQL
+- 👀 
+- 🌱 I am skilled in Java, mySQL, Git, Python, and C#.
 - 💞️ I’m looking to collaborate on projects to enhance my proficiencies in data structures, algorithms, and software design and gain practical software engineering experience
 - 📫 How to reach me: Discord Moros_Olethros#7167, or email gregkkersey@gmail.com
 
